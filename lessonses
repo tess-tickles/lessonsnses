@@ -1,1 +1,7 @@
 #area of a triangle
+
+import math
+base=13
+height=9
+area of triangle=base*hight
+
