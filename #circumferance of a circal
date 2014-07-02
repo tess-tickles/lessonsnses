@@ -1,0 +1,8 @@
+#circumfrance of a circal
+
+import math
+radious=input (user please enter radious)
+radious=15
+diameter(radious *2)
+circumference=(3.14*diameter)
+print (circumfrance of the circle is) circumfrance
